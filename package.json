@@ -1,0 +1,15 @@
+{
+  "name": "ethwaterfall",
+  "version": "1.0.0",
+  "description": "Simple way to waterfall eth using private keys",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "CrispyyBaconx",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "ethers": "^5.6.9"
+  }
+}
