@@ -11,5 +11,8 @@
   "dependencies": {
     "dotenv": "^16.0.1",
     "ethers": "^5.6.9"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CrispyyBaconx/ETHWaterfall.git"}
 }
